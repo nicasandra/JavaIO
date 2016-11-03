@@ -1,0 +1,31 @@
+.idea\
+	compiler.xml
+	copyright\
+		profiles_settings.xml
+	misc.xml
+	modules.xml
+	uiDesigner.xml
+	workspace.xml
+Java IO.iml
+out\
+	production\
+		Java IO\
+			destination-file.txt
+			examples\
+				Counter.class
+				Main.class
+				Operation.class
+			source-file.txt
+			tree\
+				Tree.class
+source-file.txt
+src\
+	destination-file.txt
+	examples\
+		Counter.java
+		Main.java
+		Operation.java
+	source-file.txt
+	tree\
+		Tree.java
+tree.txt
